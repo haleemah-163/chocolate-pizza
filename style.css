@@ -8,6 +8,7 @@ header {
     position: sticky;
     background:wheat;
     height:100px;
+    width: 70%;
 }
 header>img {
 
@@ -46,6 +47,7 @@ footer{
         background:wheat;
         height: 100%;
         bottom: 0%;
+        width: 70%;
 }
 
 footer>img{
@@ -55,5 +57,11 @@ footer>img{
 }
 footer p {
     text-align: center;
-    
+      
+}
+
+/* main */
+
+body{
+    width:
 }
