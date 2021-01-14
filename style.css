@@ -1,0 +1,67 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap');header h1 {
+    font-family: 'Yellowtail', cursive;
+}
+
+header {
+    position: sticky;
+    background:wheat;
+    height:100px;
+    width: 70%;
+}
+header>img {
+
+    position:absolute;
+    width: 50px;
+    left:0% ;
+    top: 1.25%;
+}
+
+header h1{
+    width: 900px;
+    position: absolute;
+    top: 1%;
+    transform: translateY(-50%);
+    left:5%;
+    
+}
+header p {
+    font-family: 'Jura', sans-serif;
+    width: 900px;
+    text-size-adjust: 5px;
+    position: absolute;
+    top: 25%;
+    transform: translateY(-50%);
+    left: 5%;
+}
+
+.links{
+    position:absolute;
+    right:3% ;
+    top: 40%;
+}
+
+footer{
+    position: sticky;
+        background:wheat;
+        height: 100%;
+        bottom: 0%;
+        width: 70%;
+}
+
+footer>img{
+    position: absolute;
+    right: 50%;
+    bottom: 80%;
+}
+footer p {
+    text-align: center;
+      
+}
+
+/* main */
+
+body{
+    width:
+}
